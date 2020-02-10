@@ -2,6 +2,7 @@ package leima.java300.thread;
 
 
 //学习git，第一次修改后再次push
+//接着从服务端更新到本地
 
 public class TDownloader extends Thread {
     private String url;
